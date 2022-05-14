@@ -1,1 +1,3 @@
 *.bak
+# matches any __pycache__ directory in the repository
+**/__pycache__
